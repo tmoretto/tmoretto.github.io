@@ -8,14 +8,13 @@
 # Site settings
 title: Tiago Moretto
 email: moretto.tiago@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Meu Blog com Jekyll
+description: "dev talk"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tiagomoretto.com.br" # the base hostname & protocol for your site
 twitter_username: tmoretto
 github_username:  tmoretto
+linkedin_username:  tiagomoretto
 
 # Build settings
 markdown: kramdown
-#permalink: /:categories/:year/:month/:day/:title
 permalink: /:title

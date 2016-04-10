@@ -4,4 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-![Escudo Palmeiras](http://www.palmeiras.com.br/public/upload/imagem/times/imagem_20_original.png)
+* [twitter][link-twitter]
+* [github][link-github]
+* [linkedin][link-linkedin]
+* [email][mail-to]
+
+[mail-to]: mailto:moretto.tiago@gmail.com
+[link-twitter]: http://twitter.com/{{ site.twitter_username }}
+[link-linkedin]: https://www.linkedin.com/in/{{ site.linkedin_username }}
+[link-github]: http://github.com/{{ site.github_username }}
+
